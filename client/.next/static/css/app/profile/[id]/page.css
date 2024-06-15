@@ -1,0 +1,26 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/components/modal/MyModal.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.MyModal_myModal__uk8Af {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: none;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.MyModal_myModalContent__b4lhH {
+  padding: 25px;
+  background-color: white;
+  border-radius: 16px;
+  min-width: 250px;
+}
+
+.MyModal_myModal__uk8Af.MyModal_active__lcQ0t {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

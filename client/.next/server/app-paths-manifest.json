@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/songs/page": "app/songs/page.js",
+  "/artist-create/page": "app/artist-create/page.js",
+  "/likes/page": "app/likes/page.js",
+  "/login/page": "app/login/page.js",
+  "/liked-playlists/page": "app/liked-playlists/page.js",
+  "/create-album/page": "app/create-album/page.js"
+}
